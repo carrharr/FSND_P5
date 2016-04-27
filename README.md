@@ -5,6 +5,9 @@ operations to serve FSND-P3 Catalog site.
 
 **Note:** My apologies for the poor soul that has to read through this. I suck at explaining myself, so if anything is unclear(probably lots of things), don't hesitate on sending me an email to `danielcarrilloharris@gmail.com`.
 
+**ServerIP:** http://52.35.218.155
+**SSHPort:** 2200
+
 Project Rubric: [Rubric][1]
 
 **Recomendation:** Before doing anything `apt-get update && apt-get dist-upgrade` to have everything up to date.
